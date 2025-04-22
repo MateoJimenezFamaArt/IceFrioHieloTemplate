@@ -25,7 +25,7 @@ function Banner() {
   return (
     <section className="banner full">
       <article className={activeSlide === 0 ? "active" : ""}>
-        <img src="images/slide01.jpg" alt="" />
+        <img src="images/Slide1.jpg" alt="" />
         <div className="inner">
           <header>
             <p>A free responsive web site template by <a href="https://templated.co">TEMPLATED</a></p>
@@ -34,7 +34,7 @@ function Banner() {
         </div>
       </article>
       <article className={activeSlide === 1 ? "active" : ""}>
-        <img src="images/slide02.jpg" alt="" />
+        <img src="images/Slide2.jpg" alt="" />
         <div className="inner">
           <header>
             <p>Lorem ipsum dolor sit amet nullam feugiat</p>
@@ -43,7 +43,7 @@ function Banner() {
         </div>
       </article>
       <article className={activeSlide === 2 ? "active" : ""}>
-        <img src="images/slide03.jpg" alt="" />
+        <img src="images/Slide3.jpg" alt="" />
         <div className="inner">
           <header>
             <p>Sed cursus aliuam veroeros lorem ipsum nullam</p>
@@ -52,7 +52,7 @@ function Banner() {
         </div>
       </article>
       <article className={activeSlide === 3 ? "active" : ""}>
-        <img src="images/slide04.jpg" alt="" />
+        <img src="images/Slide4.jpg" alt="" />
         <div className="inner">
           <header>
             <p>Adipiscing lorem ipsum feugiat sed phasellus consequat</p>
@@ -61,7 +61,7 @@ function Banner() {
         </div>
       </article>
       <article className={activeSlide === 4 ? "active" : ""}>
-        <img src="images/slide05.jpg" alt="" />
+        <img src="images/Slide5.jpg" alt="" />
         <div className="inner">
           <header>
             <p>Ipsum dolor sed magna veroeros lorem ipsum</p>
